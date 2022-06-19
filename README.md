@@ -1,7 +1,7 @@
 Hi 👋 My name is Tayyip Canbay
 ==============================
 
-University of Balikesir/2nd year
+University of Balikesir/3rd year
 --------------------------------
 
 I've been working on vanilla javascript and node.js lately. I am interested in Web3 and blockchain technologies and I want to improve myself in these areas.
