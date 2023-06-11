@@ -7,7 +7,7 @@ University of Balikesir/3rd year
 I've been working on vanilla javascript and node.js lately. I am interested in Web3 and blockchain technologies and I want to improve myself in these areas.
 
 * 🌍  I'm based in Balikesir
-* ✉️  You can contact me at [stabakunin@protonmail.com](mailto:mrsecmac@gmail.com)
+* ✉️  You can contact me at [mrsecmac@gmail.com](mailto:mrsecmac@gmail.com)
 * 🧠  I'm learning Javascript and Solidity
 * 🤝  I'm open to collaborating on Blockchain
 
